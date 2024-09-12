@@ -2,7 +2,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import { Button, Container } from 'react-bootstrap';
 import logo from './assets/logosimpson.png'
 import Frase from './components/Frase';
-
+import './App.css'
 function App() {
   
   return (
